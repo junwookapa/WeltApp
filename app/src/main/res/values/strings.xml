@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeltTestApp</string>
+    <string name="main_start_btn">Start</string>
+    <string name="main_id_tv">Please enter your ID</string>
+    <string name="main_error_tv">No Results Found</string>
+
+</resources>
